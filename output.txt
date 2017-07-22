@@ -1,0 +1,132 @@
+Articuno [ICE|FLYING]:
+Magneton (1892) - 2535.48 dps
+Jolteon (2359) - 2399.58 dps
+Typhlosion (1885) - 2384.33 dps
+Flareon (1950) - 2218.89 dps
+Arcanine (1675) - 2174.69 dps
+Rydon (2801) - 2122.34 dps
+Arcanine (1582) - 2113.45 dps
+Magmar (1615) - 2084.81 dps
+Gengar (2272) - 1991.67 dps
+Gyarados (2882) - 1737.96 dps
+
+Zapdos [ELECTRIC|FLYING]:
+Cloyster (2048) - 2139.93 dps
+Gengar (2272) - 1991.67 dps
+Magneton (1892) - 1810.33 dps
+Gyarados (2882) - 1737.96 dps
+Jolteon (2359) - 1713.30 dps
+Typhlosion (1885) - 1703.09 dps
+Gyarados (2057) - 1593.84 dps
+Flareon (1950) - 1584.92 dps
+Arcanine (1675) - 1553.35 dps
+Golduck (1767) - 1536.49 dps
+
+Moltres [FIRE|FLYING]:
+Magneton (1892) - 2535.48 dps
+Jolteon (2359) - 2399.58 dps
+Gyarados (2882) - 2092.36 dps
+Gengar (2272) - 1991.67 dps
+Vaporeon (1949) - 1929.83 dps
+Gyarados (2057) - 1903.68 dps
+Rydon (2801) - 1886.26 dps
+Vaporeon (1648) - 1768.96 dps
+Octillery (1740) - 1748.58 dps
+Vaporeon (1679) - 1579.66 dps
+
+Mewtwo [PSYCHIC]:
+Gengar (2272) - 2234.14 dps
+Gyarados (2882) - 2078.73 dps
+Magneton (1892) - 1811.05 dps
+Victreebel (1920) - 1793.28 dps
+Kingler (2098) - 1733.67 dps
+Jolteon (2359) - 1713.99 dps
+Typhlosion (1885) - 1703.09 dps
+Gyarados (2057) - 1593.84 dps
+Flareon (1950) - 1584.92 dps
+Arcanine (1675) - 1553.35 dps
+
+Mew [PSYCHIC]:
+Gengar (2272) - 2234.14 dps
+Gyarados (2882) - 2078.73 dps
+Magneton (1892) - 1811.05 dps
+Victreebel (1920) - 1793.28 dps
+Kingler (2098) - 1733.67 dps
+Jolteon (2359) - 1713.99 dps
+Typhlosion (1885) - 1703.09 dps
+Gyarados (2057) - 1593.84 dps
+Flareon (1950) - 1584.92 dps
+Arcanine (1675) - 1553.35 dps
+
+Raikou [ELECTRIC]:
+Gengar (2272) - 1991.67 dps
+Golem (1883) - 1882.46 dps
+Victreebel (1920) - 1793.28 dps
+Gyarados (2882) - 1737.96 dps
+Typhlosion (1885) - 1703.09 dps
+Gyarados (2057) - 1593.84 dps
+Flareon (1950) - 1584.92 dps
+Piloswine (1926) - 1580.11 dps
+Arcanine (1675) - 1553.35 dps
+Cloyster (2048) - 1528.52 dps
+
+Entei [FIRE]:
+Gyarados (2882) - 2092.36 dps
+Gengar (2272) - 1991.67 dps
+Vaporeon (1949) - 1929.83 dps
+Gyarados (2057) - 1903.68 dps
+Golem (1883) - 1882.46 dps
+Magneton (1892) - 1811.05 dps
+Vaporeon (1648) - 1768.96 dps
+Rydon (2801) - 1752.36 dps
+Octillery (1740) - 1748.58 dps
+Jolteon (2359) - 1713.99 dps
+
+Suicune [WATER]:
+Magneton (1892) - 2535.48 dps
+Victreebel (1920) - 2510.60 dps
+Jolteon (2359) - 2399.58 dps
+Gengar (2272) - 1991.67 dps
+Exeggutor (1610) - 1811.14 dps
+Exeggutor (1802) - 1504.13 dps
+Rydon (2801) - 1487.85 dps
+Gyarados (2882) - 1484.55 dps
+Poliwrath (2055) - 1477.28 dps
+Exeggutor (1657) - 1441.68 dps
+
+Lugia [PSYCHIC|FLYING]:
+Magneton (1892) - 2535.48 dps
+Jolteon (2359) - 2399.58 dps
+Gengar (2272) - 2234.14 dps
+Cloyster (2048) - 2139.93 dps
+Gyarados (2882) - 2078.73 dps
+Typhlosion (1885) - 1703.09 dps
+Gyarados (2057) - 1593.84 dps
+Flareon (1950) - 1584.92 dps
+Arcanine (1675) - 1553.35 dps
+Arcanine (1582) - 1509.61 dps
+
+Ho-Oh [FIRE|FLYING]:
+Magneton (1892) - 2535.48 dps
+Jolteon (2359) - 2399.58 dps
+Gyarados (2882) - 2092.36 dps
+Gengar (2272) - 1991.67 dps
+Vaporeon (1949) - 1929.83 dps
+Gyarados (2057) - 1903.68 dps
+Rydon (2801) - 1886.26 dps
+Vaporeon (1648) - 1768.96 dps
+Octillery (1740) - 1748.58 dps
+Vaporeon (1679) - 1579.66 dps
+
+Celebi [PSYCHIC|GRASS]:
+Gengar (2272) - 2788.34 dps
+Typhlosion (1885) - 2384.33 dps
+Flareon (1950) - 2218.89 dps
+Kingler (2098) - 2193.55 dps
+Arcanine (1675) - 2174.69 dps
+Cloyster (2048) - 2139.93 dps
+Arcanine (1582) - 2113.45 dps
+Magmar (1615) - 2084.81 dps
+Muk (1533) - 1867.57 dps
+Kingler (1517) - 1853.81 dps
+
